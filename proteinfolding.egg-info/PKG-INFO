@@ -1,3 +1,27 @@
+Metadata-Version: 2.2
+Name: proteinfolding
+Version: 0.1.dev57+gdc3597e
+Summary: Side chain global optimisation via quantum algorithms
+Home-page: https://github.com/DilhanM/proteinfolding
+Author: STFC/IBM
+Author-email: AUTHOR@EMAIL.COM
+License: MIT
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Topic :: Scientific/Engineering
+Classifier: Intended Audience :: Science/Research
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: License :: OSI Approved :: MIT License
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+Requires-Dist: numpy
+Requires-Dist: requests
+
 ProteinFolding
 ==============================
 [![Build Status](https://github.com/DilhanM/proteinfolding/workflows/Tests/badge.svg)](https://github.com/DilhanM/proteinfolding/actions)
